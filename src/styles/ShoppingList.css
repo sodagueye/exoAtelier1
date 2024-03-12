@@ -1,0 +1,9 @@
+ .shoppingList{
+    border: 3px solid green;
+    display: flex;
+  justify-content: center; 
+   width: 700px;
+     height: 320px;
+   
+   
+} 
